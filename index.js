@@ -1,4 +1,5 @@
 module.exports = function () {
 	console.log("The best worst idea you've ever had");
-	// TODO: implement remaining logic
+	// TODO: script a monster.com post looking for developers
+        // who know both java and javascript to reimplement the app
 }
